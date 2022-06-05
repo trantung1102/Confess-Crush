@@ -12,5 +12,5 @@ const CONFIG = {
     reply: 'bởi vì iuuuu thanh tùngggg <33333333',
     mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'tối nay chúng taaa chích 1 cái nhó.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun/ <3',
     messLink: 'https://www.facebook.com/messages/t/100078108201099
